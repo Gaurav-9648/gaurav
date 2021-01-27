@@ -22,10 +22,11 @@ body{
     text-decoration: none;
     color: gray;
     border-radius: 2em;
-}.home{
+}
+.homes{
     padding-top: 70px;
     display: flex;
-    width: 100%;
+    width: 80%;
     align-items: center;
     justify-content: space-around;
 }
