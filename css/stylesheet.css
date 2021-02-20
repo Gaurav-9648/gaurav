@@ -23,6 +23,7 @@ body{
     text-decoration: none;
     color: gray;
     border-radius: 2em;
+    background-color:yellow;
 }
 .homes{
     padding-top: 70px;
@@ -41,7 +42,6 @@ body{
      width:50%
 }
 .about{
-    background-color:yellow;
 }
 .about-heading{
     text-align: center;
